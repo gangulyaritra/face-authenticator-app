@@ -1,0 +1,16 @@
+bcrypt
+deepface
+dill
+fastapi
+Jinja2
+pandas
+passlib
+Pillow
+pymongo[srv]
+python-dotenv
+python-jose
+python-multipart
+PyYAML
+starlette
+uvicorn[standard]
+-e .
